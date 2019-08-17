@@ -8,6 +8,8 @@
     
     <organization>
         <name> Senac TADS PI3 - Turma A - 2019 Semestre 2</name>
+    </organization>        
+        
         <developers>
             <developer>
                 <id>WilliamSouza97</id>
@@ -15,7 +17,7 @@
             </developer>
         </developers>
         
-    </organization>
+ 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
